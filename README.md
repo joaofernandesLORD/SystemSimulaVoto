@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="![Simulador de Votação](https://github.com/user-attachments/assets/7ac3d4c4-88c5-4648-9948-2cd090eeaa14)" width="600"/>
-</p>
-
 <h1 align="center"> Simulador de Votação 🗳️ </h1>
 
 <p align="center">
